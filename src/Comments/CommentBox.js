@@ -12,7 +12,7 @@ class CommentBox extends Component {
 
     loadComments() {
         const data = [
-            { author: "JWags", message: "What's up world!",  id: 3}
+            { author: "JWags", message: "*What's up world!*",  id: 3}
         ];
 
         this.setState({ comments: data });

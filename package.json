@@ -1,6 +1,5 @@
 {
   "name": "react-playground",
-  "homepage": "http://sadsa.github.io/react-playground",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -8,7 +7,8 @@
   },
   "dependencies": {
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "remarkable": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,5 +18,5 @@
   },
   "eslintConfig": {
     "extends": "react-playground"
-  } 
+  }
 }
